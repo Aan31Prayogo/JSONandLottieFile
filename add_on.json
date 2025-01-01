@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "name": "Kerupuk Udang",
+            "origin": "Nationwide",
+            "description": "Shrimp crackers, often served as a crunchy accompaniment to various Indonesian dishes.",
+            "image_url": "https://cdn1-production-images-kly.akamaized.net/4_gOv5wlsgnoIlIxKaLqGW6ELaM=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2715385/original/037849000_1548736497-shutterstock_445804915__1_.jpg"
+        },
+        {
+            "name": "Bubuk Cabai",
+            "origin": "Nationwide",
+            "description": "Ground chili powder often sprinkled over dishes to add a spicy kick.",
+            "image_url": "https://asset.kompas.com/crops/yg1G46510Z6nNoH11Muq3RmaKAo=/0x0:1000x667/750x500/data/photo/2020/09/08/5f5715a9d215b.jpg"
+        },
+        {
+            "name": "Emping Melinjo",
+            "origin": "Java",
+            "description": "Crispy crackers made from the melinjo nut, usually served as a crunchy side dish or snack.",
+            "image_url": "https://asset.kompas.com/crops/B3WM-y1wth-Prw0fIBx50krsMHg=/0x0:1000x667/750x500/data/photo/2020/08/17/5f3a2785bf7fd.jpg"
+        },
+        {
+            "name": "Kacang Goreng",
+            "origin": "Java",
+            "description": "Fried peanuts, often served as a crunchy snack or added to dishes for extra texture.",
+            "image_url": "https://awsimages.detik.net.id/community/media/visual/2023/04/14/resep-kacang-bawang-renyah-pakai-santan_43.jpeg?w=1200"
+        },
+        {
+            "name": "Keripik Singkong",
+            "origin": "Nationwide",
+            "description": "Cassava chips, fried until crispy and commonly enjoyed as a snack or side dish.",
+            "image_url": "https://sibeunteurgeulis.majalengkakab.go.id/keripik/attachments/gambar_produk/283.png"
+        },
+        {
+            "name": "Petis",
+            "origin": "East Java",
+            "description": "A thick black shrimp paste used as a condiment, adding a rich umami flavor to dishes.",
+            "image_url": "https://asset.kompas.com/crops/Fg4mamfWn0dC1Ikt_QyYtvwurOM=/0x411:664x854/1200x800/data/photo/2020/09/25/5f6dab632ac64.jpg"
+        },
+        {
+            "name": "Serundeng",
+            "origin": "Java",
+            "description": "Spiced coconut flakes, often added to dishes like nasi uduk or served with fried chicken.",
+            "image_url": "https://cdn0-production-images-kly.akamaized.net/0fgB5iguBImaJTfxTpuMTssdEk8=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3214541/original/049767500_1597973067-46._Srund__ng_3.jpg"
+        },
+        {
+            "name": "Bawang Goreng",
+            "origin": "Nationwide",
+            "description": "Fried onion with crunchy texture, suitable for any hot dishes and rice",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Fried_shallots_bawang_goreng.JPG"
+        }
+    ]
+}

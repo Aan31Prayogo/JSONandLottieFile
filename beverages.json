@@ -1,0 +1,76 @@
+{
+    "data" : [
+                {
+                    "name": "Es Cendol",
+                    "origin": "West Java",
+                    "description": "An iced sweet dessert drink with green rice flour jelly, coconut milk, and palm sugar syrup.",
+                    "image_url": "https://asset.kompas.com/crops/t3tdD3PwNMMiPxm7WKH-_qq4MmM=/0x0:1000x667/1200x800/data/photo/2023/03/12/640d6eac51567.jpg",
+                    "price" : 10000,
+                    "display_price" : "IDR 10.000"
+                },
+                {
+                    "name": "Es Campur",
+                    "origin": "Nationwide",
+                    "description": "A mixed ice dessert made with various ingredients like fruits, jelly, coconut, and sweet syrups.",
+                    "image_url": "https://asset.kompas.com/crops/mflGKlOsWa44Fb9Xj7KYlIIVQgw=/0x0:1000x667/1200x800/data/photo/2020/04/24/5ea2a3cba9ace.jpg",
+                    "price": 15000,
+                    "display_price": "IDR 15.000"
+                },
+                {
+                    "name": "Es Teler",
+                    "origin": "Central Java",
+                    "description": "A refreshing drink with young coconut, avocado, jackfruit, and condensed milk, often topped with ice.",
+                    "image_url": "https://www.frisianflag.com/storage/app/media/uploaded-files/es-teler-nikmat.jpg",
+                    "price": 15000,
+                    "display_price": "IDR 15.000"
+                },
+                {
+                    "name": "Bajigur",
+                    "origin": "West Java",
+                    "description": "A warm, sweet drink made from coconut milk, palm sugar, and spices, often enjoyed on rainy days.",
+                    "image_url": "https://asset.kompas.com/crops/Q8gAMW15GUuW65hkosrxWwThn2M=/111x83:735x499/1200x800/data/photo/2020/03/28/5e7eb826a19c9.jpg",
+                    "price": 12000,
+                    "display_price": "IDR 12.000"
+                },
+                {
+                    "name": "Wedang Jahe",
+                    "origin": "Java",
+                    "description": "A traditional ginger tea made with boiled ginger, palm sugar, and pandan leaves.",
+                    "image_url": "https://www.masakapahariini.com/wp-content/uploads/2018/12/shutterstock_338815997.jpg",
+                    "price": 15000,
+                    "display_price": "IDR 15.000"
+                },
+                {
+                    "name": "Kopi Tubruk",
+                    "origin": "Java",
+                    "description": "A simple coffee preparation where finely ground coffee is boiled with sugar.",
+                    "image_url": "https://i0.wp.com/deltacoffee.co.id/wp-content/uploads/2024/03/Kopi-Tubruk.jpg",
+                    "price": 10000,
+                    "display_price": "IDR 10.000"
+                },
+                {
+                    "name": "Es Doger",
+                    "origin": "Cirebon, West Java",
+                    "description": "A sweet, pink-colored drink made with coconut milk, fermented cassava, and sweet syrup.",
+                    "image_url": "https://i0.wp.com/deltacoffee.co.id/wp-content/uploads/2024/03/Kopi-Tubruk.jpg",
+                    "price": 10000,
+                    "display_price": "IDR 10.000"
+                },
+                {
+                    "name": "Sekoteng",
+                    "origin": "Central Java",
+                    "description": "A warm, spiced drink made with ginger, peanuts, and other toppings, often sold by street vendors.",
+                    "image_url": "https://matakota.com/wp-content/uploads/2021/03/images-49_5_1.jpeg",
+                    "price": 15000,
+                    "display_price": "IDR 15.000"
+                },
+                {
+                    "name": "Bandrek",
+                    "origin": "Sundanese, West Java",
+                    "description": "A traditional spiced beverage made from ginger and palm sugar, perfect for warming up on cold days.",
+                    "image_url": "https://asset.kompas.com/crops/8XZuVynCcCuiHwPX2ezUTCde7KI=/0x0:1000x667/1200x800/data/photo/2021/06/20/60cef105d4c03.jpg",
+                    "price": 15000,
+                    "display_price": "IDR 10.000"
+                }
+            ]
+}

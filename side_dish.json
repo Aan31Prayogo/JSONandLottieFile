@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "name": "Pergedel",
+            "origin": "Nationwide",
+            "description": "Fried potato cakes mixed with ground meat, often served as a side dish or snack.",
+            "image_url": "https://asset.kompas.com/crops/8nySEw8cUKzFsnfF6cUs5zGzOP8=/0x0:1000x667/1200x800/data/photo/2022/03/29/6242600095f57.jpg"
+        },
+        {
+            "name": "Tempe Goreng",
+            "origin": "Nationwide",
+            "description": "Fried tempeh, a traditional Indonesian soy product, often served with sambal or as a side dish.",
+            "image_url": "https://asset.kompas.com/crops/KA-k0A13Zj_HoXv6Pa3Y-1ITXBg=/32x3:1000x649/1200x800/data/photo/2023/03/01/63fede97899d6.jpg"
+        },
+        {
+            "name": "Sambal Terasi",
+            "origin": "Nationwide",
+            "description": "A spicy chili paste or sauce mix with shrimp paste, commonly served as a condiment or side dish to accompany various meals.",
+            "image_url": "https://img.kurio.network/3WwWiK9xjYf8eqsCw-gtbIS7ApY=/1200x1200/filters:quality(80)/https://kurio-img.kurioapps.com/20/04/17/f9eb103f-7893-4b0f-9c44-8471e62c93d2.jpeg"
+        },
+        {
+            "name": "Acar",
+            "origin": "Java",
+            "description": "Pickled vegetables such as carrots, cucumbers, and cabbage, often served alongside grilled meats or rice dishes.",
+            "image_url": "https://asset.kompas.com/crops/1MWerAg4Ip9lsL3ney3POcRrYbw=/0x303:667x748/1200x800/data/photo/2021/05/12/609b8929ee593.jpg"
+        },
+        {
+            "name": "Kerupuk",
+            "origin": "Nationwide",
+            "description": "Crispy crackers made from fish or shrimp, commonly served as a side snack or accompaniment to rice dishes.",
+            "image_url": "https://asset.kompas.com/crops/DVcRLQ4MxJhc2teB8GdNM4DDSco=/9x1:989x655/1200x800/data/photo/2020/02/21/5e5008d10c825.jpg"
+        },
+        {
+            "name": "Tahu Tempe Bacem",
+            "origin": "Java",
+            "description": "Tempeh and tofu cooked in sweet soy sauce and spices, then deep-fried to create a savory, sweet side dish.",
+            "image_url": "https://img-global.cpcdn.com/recipes/599179c3673eb6ac/400x400cq70/photo.jpg"
+        },
+        {
+            "name": "Sayur Asem",
+            "origin": "Java",
+            "description": "A sour vegetable soup made with tamarind, peanuts, and a variety of fresh vegetables.",
+            "image_url": "https://awsimages.detik.net.id/community/media/visual/2021/05/21/resep-sayur-asem-jawa_43.jpeg?w=600&q=90"
+        },
+        {
+            "name": "Lalapan",
+            "origin": "Java",
+            "description": "A simple side dish consisting of raw vegetables like cucumber, lettuce, and basil, usually served with sambal.",
+            "image_url": "https://www.finnafood.com/blog/wp-content/uploads/2022/05/Lalap-untuk-Sambal-Bawang.jpg"
+        }
+    ]
+}
