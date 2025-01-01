@@ -1,0 +1,1 @@
+The files inside this repo is assets which i used in my E-Kiosk project, so i attahced it here for you so you can use it and all right reserverd by respect owener or creator for any assets i incluede here
